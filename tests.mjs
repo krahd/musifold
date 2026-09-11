@@ -267,4 +267,4 @@ assert.ok(existsSync(new URL('./assets/social-preview.png', import.meta.url)));
 assert.ok(existsSync(new URL('./enhancements.css', import.meta.url)));
 assert.match(html, /Not affiliated with or endorsed by Ableton/u);
 
-console.log(`All Ableton Note Helper tests passed (${PATTERNS.length} patterns, 3 layouts).`);
+console.log(`All Musifold tests passed (${PATTERNS.length} patterns, 3 layouts).`);

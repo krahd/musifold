@@ -2,13 +2,13 @@
 
 Global repository registry, cross-domain status, and the master calendar are maintained in `krahd/tom-work-admin`.
 
-This repository remains canonical for **Ableton Note Helper** source, tests, documentation, deployment, and project-specific technical state.
+This repository remains canonical for **Musifold** source, tests, documentation, deployment, and project-specific technical state.
 
 Any manuscript or publication artefact belongs canonically in `krahd/academic-writing`; submission-specific professional or artistic packages belong in `krahd/professional-opportunities`; grant, funding, and compute application packages belong in `krahd/grant-applications`.
 
 ## Temporary cross-project deployment mirror
 
-`deployments/history-through-cu/` is an explicit temporary exception to this repository's normal project boundary. It is **not Ableton Note Helper source** and must not be treated as canonical for that project.
+`deployments/history-through-cu/` is an explicit temporary exception to this repository's normal project boundary. It is **not Musifold source** and must not be treated as canonical for that project.
 
 It exists solely so the already configured public GitHub Pages deployment can expose the **History Through CU** CU150 prototype while the new private `krahd/history-through-cu` repository awaits its own Pages activation.
 

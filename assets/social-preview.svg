@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
-  <title id="title">Ableton Note Helper</title>
+  <title id="title">Musifold</title>
   <desc id="desc">Scales, chords and voicings on iPad, iPhone and Push pad grids.</desc>
   <rect width="1280" height="640" fill="#0b0d10"/>
   <circle cx="1080" cy="80" r="260" fill="#1ba7e1" opacity=".08"/>
   <circle cx="170" cy="610" r="290" fill="#f59e0b" opacity=".06"/>
   <text x="72" y="105" fill="#9ea7b2" font-family="system-ui,-apple-system,sans-serif" font-size="24" font-weight="700" letter-spacing="4">IPAD · IPHONE · PUSH</text>
-  <text x="72" y="190" fill="#f3f5f7" font-family="system-ui,-apple-system,sans-serif" font-size="74" font-weight="800">Ableton Note Helper</text>
+  <text x="72" y="190" fill="#f3f5f7" font-family="system-ui,-apple-system,sans-serif" font-size="74" font-weight="800">Musifold</text>
   <text x="72" y="248" fill="#9ea7b2" font-family="system-ui,-apple-system,sans-serif" font-size="30">Scales, chords, arpeggios and exact voicings on the grid</text>
   <g transform="translate(72 330)">
     <rect width="1136" height="228" rx="24" fill="#13171c" stroke="#303740" stroke-width="2"/>

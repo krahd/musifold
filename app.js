@@ -16,7 +16,7 @@ import {
   resolveVoicing,
 } from './music-theory.mjs';
 
-const STORAGE_KEY = 'ableton-note-helper-state-v3';
+const STORAGE_KEY = 'musifold-state-v3';
 const LEGACY_STORAGE_KEYS = Object.freeze(['abeton-note-helper-state-v2']);
 const DEFAULT_CHARTS = Object.freeze([
   ['major', 0],

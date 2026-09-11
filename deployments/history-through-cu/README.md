@@ -1,6 +1,6 @@
 # Temporary deployment mirror: History Through CU
 
-This directory is **not part of Ableton Note Helper**.
+This directory is **not part of Musifold**.
 
 It is the temporary public GitHub Pages mirror for the private canonical project repository:
 

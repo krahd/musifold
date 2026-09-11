@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { existsSync, readFileSync } from 'node:fs';
 
-const SITE_URL = 'https://krahd.github.io/ableton-note-helper/';
+const SITE_URL = 'https://krahd.github.io/musifold/';
 const INDEXNOW_KEY = '187698fd6565dcfce23484648701f559';
 const read = (path) => readFileSync(new URL(path, import.meta.url), 'utf8');
 
@@ -20,8 +20,8 @@ assert.match(html, /<link rel="manifest" href="site\.webmanifest">/u);
 assert.match(html, /<link rel="sitemap" type="application\/xml" href="sitemap\.xml">/u);
 assert.match(html, /<script type="application\/ld\+json">/u);
 assert.match(html, /"@type": "WebApplication"/u);
-assert.match(html, /"name": "Tomás Laurenzo"/u);
-assert.match(html, /"codeRepository": "https:\/\/github\.com\/krahd\/ableton-note-helper"/u);
+assert.match(html, /"name": "Tomas Laurenzo"/u);
+assert.match(html, /"codeRepository": "https:\/\/github\.com\/krahd\/musifold"/u);
 assert.match(html, /og:image:width/u);
 assert.match(html, /twitter:image:alt/u);
 
@@ -34,7 +34,7 @@ assert.equal(jsonLd.isAccessibleForFree, true);
 assert.equal(jsonLd.author.url, 'https://laurenzo.net');
 
 const manifest = JSON.parse(read('./site.webmanifest'));
-assert.equal(manifest.name, 'Ableton Note Helper');
+assert.equal(manifest.name, 'Musifold');
 assert.equal(manifest.start_url, './');
 assert.equal(manifest.display, 'standalone');
 assert.ok(manifest.categories.includes('music'));

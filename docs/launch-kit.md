@@ -4,8 +4,8 @@ The goal is durable discoverability, not an ongoing promotional campaign.
 
 ## Public links
 
-- Live app: https://krahd.github.io/ableton-note-helper/
-- Source: https://github.com/krahd/ableton-note-helper
+- Live app: https://krahd.github.io/musifold/
+- Source: https://github.com/krahd/musifold
 
 ## Repository metadata
 
@@ -15,7 +15,7 @@ Use this repository description:
 
 Use this website URL:
 
-> https://krahd.github.io/ableton-note-helper/
+> https://krahd.github.io/musifold/
 
 Add these GitHub topics:
 
@@ -35,9 +35,9 @@ I wanted accurate practice diagrams for Ableton Note, but static charts became c
 
 It supports multiple simultaneous scales, modes, chords, arpeggios and exact voicings. You can also tap pads to identify chords, alternative interpretations and inversions. The app runs entirely in the browser, requires no account, performs no tracking and is open source.
 
-Live app: https://krahd.github.io/ableton-note-helper/
+Live app: https://krahd.github.io/musifold/
 
-Source: https://github.com/krahd/ableton-note-helper
+Source: https://github.com/krahd/musifold
 
 Corrections to device geometry, theory data and chord naming are welcome.
 
@@ -59,7 +59,7 @@ It is a dependency-free static application hosted on GitHub Pages. There is no a
 
 I built a free interactive reference for exploring scales, modes, chords, arpeggios and exact voicings on Ableton Note and Push pad grids. It supports the iPad, iPhone and Push layouts and identifies chords from pads selected by the user.
 
-https://krahd.github.io/ableton-note-helper/
+https://krahd.github.io/musifold/
 
 ## Search discovery
 

@@ -1,15 +1,21 @@
-# Ableton Note Helper
+# Musifold
 
-[![Test and deploy GitHub Pages](https://github.com/krahd/ableton-note-helper/actions/workflows/pages.yml/badge.svg)](https://github.com/krahd/ableton-note-helper/actions/workflows/pages.yml)
+**Music geometry across instruments.**
+
+*One music. Many geometries.*
+
+
+
+[![Test and deploy GitHub Pages](https://github.com/krahd/musifold/actions/workflows/pages.yml/badge.svg)](https://github.com/krahd/musifold/actions/workflows/pages.yml)
 [![MIT licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 
-A free, interactive reference for learning scales, modes, chords, arpeggios, jazz phrases and exact voicings on Ableton Note and Push pad layouts. It runs entirely in the browser: no account, installation, analytics or tracking.
+Musifold is a free, browser-based environment for exploring music geometry across instruments. The current baseline preserves the original Ableton Note and Push functionality for scales, modes, chords, arpeggios, jazz phrases and exact voicings. It runs entirely in the browser: no account, installation, analytics or tracking.
 
-Created by [Tomás Laurenzo](https://laurenzo.net).
+Created by [Tomas Laurenzo](https://laurenzo.net).
 
-**[Open the live app](https://krahd.github.io/ableton-note-helper/)**
+**[Open the live app](https://krahd.github.io/musifold/)**
 
-![Ableton Note Helper preview](assets/social-preview.png)
+![Musifold preview](assets/social-preview.png)
 
 ## What it does
 
@@ -72,3 +78,7 @@ This is an unofficial, independent open-source tool. It is not affiliated with o
 ## Licence
 
 [MIT](LICENSE)
+
+## Project lineage
+
+Musifold grew out of [Ableton Note Helper](https://github.com/krahd/ableton-note-helper). The repositories share their Git history through the point at which Musifold became an independent project.

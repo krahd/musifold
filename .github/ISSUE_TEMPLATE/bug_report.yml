@@ -4,7 +4,7 @@ labels: ["bug"]
 body:
   - type: markdown
     attributes:
-      value: Thank you for helping improve Ableton Note Helper.
+      value: Thank you for helping improve Musifold.
   - type: dropdown
     id: area
     attributes:
